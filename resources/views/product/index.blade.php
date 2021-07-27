@@ -14,6 +14,7 @@
                             </div>
                             <button type="submit" class="btn btn-primary mb-2">Search</button>
                             <a class="btn btn-warning mb-2" href="{{ route('product.list') }}">Reset</a>
+                        </form>
                         <table class="table table-bordered">
                             <thead>
                               <tr>
