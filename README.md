@@ -1,1 +1,1 @@
-# inventory
+# Simple inventory product with Laravel
